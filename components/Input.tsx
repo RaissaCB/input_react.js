@@ -6,7 +6,6 @@ const Input: React.FC<ChakraInputProps> = (props) => {
     <ChakraInput
       height="50px"
       backgroundColor="gray.800"
-      focusBorderColor="purple.500"
       borderRadius="sm"
       {...props}
     />
